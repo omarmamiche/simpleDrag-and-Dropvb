@@ -1,0 +1,4 @@
+﻿
+Class MyShape
+
+End Class
